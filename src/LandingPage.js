@@ -6,7 +6,7 @@ function LandingPage() {
             <div className="box">
             <img src="/printlab_logo.png" alt="Print Lab Logo" className="logo"/>
             <h1>Login Successful!</h1>
-            <p>| Welcome To The Landing Page |</p>
+            <p>| You are now Logged In! |</p>
             </div>
         </div>
     );
